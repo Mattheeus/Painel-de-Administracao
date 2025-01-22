@@ -1,0 +1,2 @@
+node index.js
+ngrok http --url=talented-saving-drum.ngrok-free.app 3000
